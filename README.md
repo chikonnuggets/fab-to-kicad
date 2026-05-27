@@ -21,6 +21,7 @@ Useful for recovering design data from fabrication files when the original KiCad
 fab-to-kicad/
   fab_files/          ← place input files here (.tgz, .xml)
   output_PCB/         ← converted .kicad_pcb files appear here
+  original_PCB/       ← original test kicad_pcb files stored here
   odb_to_kicad.py
   ipc2581_to_kicad.py
   README.md
